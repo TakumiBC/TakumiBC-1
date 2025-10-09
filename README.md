@@ -1,9 +1,9 @@
 # TakumiBC (my slave)
 
-## What is it?
+## ❓What is it?
 
-- TakumiBC is a anthropogenic (human-like) (is this even a real word???) AI (apple infrastructure) to help you create nonexistent tools such as finding yourself a fake girlfriend (parentheses).
-- TakumiBC has been praised by many (wtf really?):
+- 🌟 TakumiBC is a anthropogenic (human-like) (is this even a real word???) AI (apple infrastructure) to help you create nonexistent tools such as finding yourself a fake girlfriend (parentheses).
+- 📸 TakumiBC has been praised by many (wtf really?):
   - Linus Torvalds:
     > Many AI companies have been especially hard to deal with.
     >
@@ -19,22 +19,22 @@
   - [Thomas Wu](https://github.com/TakumiBC):
     > I like enslaving myself.
 
-## Installation
+## 🧑‍💻 Installation
 
-- Run the install script.
+- 🤯 Run the install script.
 
 ```bash
 curl -s https://raw.githubusercontent.com/matt-dong-123/TakumiBC/main/install.sh | bash
 ```
 
 - (This guy curls into bash what an idiot)
-- Donate your life savings to [LinkScape](https://linkscape.app). Or else I'll belt you.
+- 💰 Donate your life savings to [LinkScape](https://linkscape.app). Or else I'll belt you.
 
-- Enjoy!
+- 💀 Enjoy!
 
-## Disclaimer
->
-> **WARNING**
+## ⚠️Disclaimer
+
+> [!warning]
 > This is obviously a joke. (knew it)
 >
 > However, this isn't even supposed to be funny. (called it)
