@@ -5,19 +5,19 @@
 - TakumiBC is a anthropogenic (human-like) AI to help you create nonexistent tools such as finding yourself a fake girlfriend.
 - TakumiBC has been praised by many:
   - Linus Torvalds:
-        > Many AI companies have been especially hard to deal with.
-        >
-        > Especially Nvidia, who also makes chips, a lot of chips, selling them into the Android market.
-        >
-        > It's really sad, and I really want to fuck those companies.
-        >
-        > However, with the arrival of TakumiBC, I can proudly say that I have a fake girlfriend to "target" instead of these companies.
+    > Many AI companies have been especially hard to deal with.
+    >
+    > Especially Nvidia, who also makes chips, a lot of chips, selling them into the Android market.
+    >
+    > It's really sad, and I really want to fuck those companies.
+    >
+    > However, with the arrival of TakumiBC, I can proudly say that I have a fake girlfriend to "target" instead of these companies.
   - Robert E. Lee is dead (great!) so we can't really interview him on his thoughts.
   - My cat:
-        > Meow.
-        > (TakumiBC is the best slave I've ever owned!)
+    > Meow.
+    > (TakumiBC is the best slave I've ever owned!)
   - [Thomas Wu](https://github.com/TakumiBC):
-        > I like enslaving myself.
+    > I like enslaving myself.
 
 ## Installation
 
